@@ -17,7 +17,7 @@
 
 NoteItDown is a note-taking full-stack web application built with React on the frontend and Django/DRF on the backend.
 
-Features:
+<ins>Features</ins>:
 
 - Light/dark mode (depending on your device settings)
 - CRUD opertions for user credentials (JWT based)
