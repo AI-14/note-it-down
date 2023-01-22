@@ -25,7 +25,7 @@ NoteItDown is a note-taking full-stack web application built with React on the f
   - Get a user info to be displayed on home page
   - Update email & password
   - Delete user account
-- CRUD operations for notes (JWT token based)
+- CRUD operations for notes (JWT based)
   - Create a note using react-quill rich text editor
   - Update a note
   - View all notes at once
