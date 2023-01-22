@@ -35,9 +35,9 @@ Features:
 - Download/Export a note as a pdf
 
 ## Demo
-<video width="720" height="240" controls>
-  <source src="/readme_res/Noteitdown-demo-video.mp4" type="video/mp4">
-</video>
+https://user-images.githubusercontent.com/53491186/213940729-45f4fedc-bbe4-4724-a299-35210c9cfe18.mp4
+
+
 
 ## Screenshots
 ![](readme_res//Screenshots.png)
@@ -65,7 +65,8 @@ View the api endpoints at [noteitdown-api-docs](https://documenter.getpostman.co
     <summary>Click to expand!</summary>
     <br/>
 
-![](readme_res//Folder%20Structure%20Dissection.png)
+<img src="readme_res//Folder%20Structure%20Dissection.png" height="400"/>
+
 
 > **<ins>Note to self</ins>:** _This section is meant to give an overview of how the folders are structured. If refactoring or adding new features alter the folder structure, change the pictures too via [draw.io](https://draw.io/) using the file `Folder Structure Dissection.drawio` in `readme_res` folder._
 
@@ -80,7 +81,7 @@ View the api endpoints at [noteitdown-api-docs](https://documenter.getpostman.co
 #### **General**
 
 - Built on `OS: Windows 10`.
-- Download/clone this repository using `git clone https://github.com/AI-14/note-it-down.git`.
+- Download/clone this repository using `git clone https://github.com/AI-14/Note-It-Down.git`.
 - `cd note-it-down`.
 
 #### **For frontend**
