@@ -35,9 +35,7 @@ NoteItDown is a note-taking full-stack web application built with React on the f
 - Download/Export a note as a pdf
 
 ## Demo
-https://user-images.githubusercontent.com/53491186/213940729-45f4fedc-bbe4-4724-a299-35210c9cfe18.mp4
-
-
+https://user-images.githubusercontent.com/53491186/213941262-99a78cbb-0da4-43b0-b65f-b4512728ce02.mp4
 
 ## Screenshots
 ![](readme_res//Screenshots.png)
@@ -78,13 +76,13 @@ View the api endpoints at [noteitdown-api-docs](https://documenter.getpostman.co
     <summary>Click to expand!</summary>
     <br/>
   
-#### **General**
+#### <ins>**General**</ins>
 
 - Built on `OS: Windows 10`.
 - Download/clone this repository using `git clone https://github.com/AI-14/Note-It-Down.git`.
 - `cd note-it-down`.
 
-#### **For frontend**
+#### <ins>**For frontend**</ins>
 
 1. Installation
    - Make sure you have the following versions and softwares/engines installed:
@@ -99,7 +97,7 @@ View the api endpoints at [noteitdown-api-docs](https://documenter.getpostman.co
 2. Usage
    - To start the project, type `npm start`.
 
-#### **For backend**
+#### <ins>**For backend**</ins>
 
 1. Installation
    - Make sure you have the following versions and softwares/engines installed:
