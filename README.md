@@ -1,4 +1,4 @@
-# NoteItDown
+# Note It Down
 ![HTML](https://img.shields.io/badge/-HTML-gray?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-1fb30e?style=flat&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
