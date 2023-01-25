@@ -68,7 +68,7 @@ View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.
     <br/>
   
 #### <ins>**General**</ins>
-- Built on `OS: Windows 10`.
+- Built on `OS: Windows 10` using `VSCode`.
 - Download/clone this repository using `git clone https://github.com/AI-14/note-it-down.git`.
 - `cd note-it-down`.
 - NOTE: First run backend server, then run frontend.
