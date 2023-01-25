@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/53491186/213941262-99a78cbb-0da4-43b0-
 ## Screenshots
 ![](readme_res//Screenshots.png)
 
-## Overview Of The Architecture
+## Architecture Overview 
 <details>
     <summary>Click to expand!</summary>
     <br/>
@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/53491186/213941262-99a78cbb-0da4-43b0-
 ## Api Endpoints Documentation
 View the api endpoints at [noteitdown-api-docs](https://documenter.getpostman.com/view/25138891/2s8Z73xqLn). I used postman for documenting the api endpoints.
 
-## Basic Folder Structure Overview
+## Folder Structure Overview
 <details>
     <summary>Click to expand!</summary>
     <br/>
