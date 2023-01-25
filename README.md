@@ -13,7 +13,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman&logoColor=orange)
 
 ## Description
-It is a note-taking full-stack web application built with React on the frontend and Django/DRF on the backend.
+It is a full-stack note-taking web application built with React on the frontend and Django/DRF on the backend.
 
 <ins>Features</ins>:
 - Supports light/dark mode (depending on your device settings)
