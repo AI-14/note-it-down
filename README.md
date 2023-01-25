@@ -17,12 +17,12 @@ It is a full-stack note-taking web application built with React on the frontend 
 
 <ins>Features</ins>:
 - Supports light/dark mode (depending on your device settings)
-- CRUD opertions for user credentials (JWT authorization based) i.e.
+- For user credentials (JWT authorization based) i.e.
   - Users can Signup/Login/Logout
   - Currently loggedin user info is displayed on the home page
   - Users can update their email & password
   - Users can delete their account
-- CRUD operations for notes (JWT authorization based) i.e.
+- For notes (JWT authorization based) i.e.
   - Users can create a note
   - Users can set priority of a note
   - Users can update a note
