@@ -50,7 +50,7 @@ https://user-images.githubusercontent.com/53491186/213941262-99a78cbb-0da4-43b0-
 </details>
 
 ## Api Endpoints Documentation
-View the api endpoints at [noteitdown-api-docs](https://documenter.getpostman.com/view/25138891/2s8Z73xqLn). I used postman for documenting the api endpoints.
+View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.com/view/25138891/2s8Z73xqLn). I used postman for documenting the api endpoints.
 
 ## Folder Structure Overview
 <details>
