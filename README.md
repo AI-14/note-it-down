@@ -70,8 +70,8 @@ View the api endpoints at [noteitdown-api-docs](https://documenter.getpostman.co
   
 #### <ins>**General**</ins>
 - Built on `OS: Windows 10`.
-- Download/clone this repository using `git clone https://github.com/AI-14/Note-It-Down.git`.
-- `cd Note-It-Down`.
+- Download/clone this repository using `git clone https://github.com/AI-14/note-it-down.git`.
+- `cd note-it-down`.
 - NOTE: First run backend server, then run frontend.
 
 #### <ins>**For frontend**</ins>
