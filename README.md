@@ -73,7 +73,7 @@ View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.
 - `cd note-it-down`.
 - NOTE: First run backend server, then run frontend.
 
-#### <ins>**For frontend**</ins>
+#### <ins>**For frontend folder**</ins>
 1. Installation
    - Make sure you have the following versions and softwares/engines installed:
      - `node: >= 16.14.0`
@@ -87,7 +87,7 @@ View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.
 2. Usage
    - To start the project, type `npm start`.
 
-#### <ins>**For backend**</ins>
+#### <ins>**For backend folder**</ins>
 1. Installation
    - Make sure you have the following versions and softwares/engines installed:
      - `python: >= 3.8`
@@ -104,4 +104,12 @@ View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.
 2. Usage
    - To start the project, type `python manage.py runserver`.
 
+#### <ins>**If using Makefile**</ins>
+  - You need to have `make` installed in your machine. Then run the following commands in cmd:
+  - `make build-backend`
+  - `make build-frontend`
+  - `make run-backend`
+  - Then open another cmd and run `make run-frontend`
+  - NOTE: use `make help` to see all the commands
+  
 </details>
