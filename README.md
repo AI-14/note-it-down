@@ -13,7 +13,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman&logoColor=orange)
 
 ## Description
-It is a full-stack note-taking web application built with React on the frontend and Django/DRF on the backend.
+It is a full-stack note-taking web application built with React on the frontend and Django/DRF on the backend
 
 <ins>Features</ins>:
 - Supports light/dark mode (depending on your device settings)
@@ -68,41 +68,41 @@ View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.
     <br/>
   
 #### <ins>**General**</ins>
-- Built on `OS: Windows 10` using `VSCode`.
-- Download/clone this repository using `git clone https://github.com/AI-14/note-it-down.git`.
-- `cd note-it-down`.
-- NOTE: First run backend server, then run frontend.
+- Built on `OS: Windows 10` using `VSCode`
+- Download/clone this repository using `git clone https://github.com/AI-14/note-it-down.git`
+- `cd note-it-down`
+- NOTE: First run backend server, then run frontend
 
 #### <ins>**For frontend folder**</ins>
 1. Installation
    - Make sure you have the following versions and softwares/engines installed:
      - `node: >= 16.14.0`
      - `npm: >= 8.3.1`
-   - Make sure you are in the project's directory. Then run the command `cd frontend`.
-   - Then install all dependencies by typing in the terminal `npm install` or `npm i`.
-   - To install devDependencies, type `npm install --save-dev`.
+   - Make sure you are in the project's directory. Then run the command `cd frontend`
+   - Then install all dependencies by typing in the terminal `npm install` or `npm i`
+   - To install devDependencies, type `npm install --save-dev`
    
-   > **Note:** _If any dependency is missing or an error shows up, install it using `npm install moduleName`_.
+   > **Note:** _If any dependency is missing or an error shows up, install it using `npm install moduleName`_
 
 2. Usage
-   - To start the project, type `npm start`.
+   - To start the project, type `npm start`
 
 #### <ins>**For backend folder**</ins>
 1. Installation
    - Make sure you have the following versions and softwares/engines installed:
      - `python: >= 3.8`
      - `pip: >= 21.3.1`
-   - Make sure you are in the project's directory. Then run the command `cd backend`.
-   - Then create a virtual environment using the command `py -m venv yourVenvName` and activate it using `yourVenvName\Scripts\activate.bat`.
-   - Then run the following command `pip install -r requirements.txt`. With this, all the dependencies will be installed in your virtual environment.
+   - Make sure you are in the project's directory. Then run the command `cd backend`
+   - Then create a virtual environment using the command `py -m venv yourVenvName` and activate it using `yourVenvName\Scripts\activate.bat`
+   - Then run the following command `pip install -r requirements.txt`. With this, all the dependencies will be installed in your virtual environment
    - Then run the commands:
      - `python manage.py makemigrations`
      - `python manage.py migrate`
 
-   > **Note:** _If any dependency is missing or an error shows up, install it using `pip install moduleName`_.
+   > **Note:** _If any dependency is missing or an error shows up, install it using `pip install moduleName`_
 
 2. Usage
-   - To start the project, type `python manage.py runserver`.
+   - To start the project, type `python manage.py runserver`
 
 #### <ins>**If using Makefile**</ins>
   - You need to have `make` installed in your machine. Then run the following commands in cmd:
