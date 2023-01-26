@@ -71,7 +71,7 @@ View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.
 - Built on `OS: Windows 10` using `VSCode`
 - Download/clone this repository using `git clone https://github.com/AI-14/note-it-down.git`
 - `cd note-it-down`
-- NOTE: First run backend server (it will run on http://127.0.0.1:8000/), then run frontend (it will run on http://127.0.0.1:3000)
+- NOTE: First run backend server (it will run on `http://127.0.0.1:8000/`), then run frontend (it will run on `http://127.0.0.1:3000`)
 
 #### <ins>**For frontend folder**</ins>
 1. Installation
