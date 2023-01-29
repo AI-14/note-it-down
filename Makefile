@@ -16,6 +16,3 @@ run-backend:
 
 run-frontend:
 	cd frontend && npm start
-
-createsuperuser:
-	cd backend && venv\Scripts\activate.bat && python manage.py createsuperuser
