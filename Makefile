@@ -3,7 +3,8 @@ help:
 	@echo 'build-frontend   builds the frontend folder'
 	@echo 'run-backend      runs the django backend server'
 	@echo 'run-frontend     runs the react app'
-	@echo 'createsuperuser  prompts to create a super-user in django'
+	@echo 'clean-backend    removes venv folder and sqlite file'
+	@echo 'clean-frontend   removes node_modules'
 
 build-backend:
 	cd backend && py -m venv venv && venv\Scripts\activate.bat && pip install -r requirements.txt && python manage.py makemigrations && python manage.py migrate
@@ -16,3 +17,9 @@ run-backend:
 
 run-frontend:
 	cd frontend && npm start
+
+clean-backend:
+	cd backend && rmdir /s /q venv && del db.sqlite3
+
+clean-frontend:
+	cd frontend && rmdir /s /q node_modules
