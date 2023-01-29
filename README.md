@@ -51,17 +51,6 @@ Check the video demo at [NoteItDown Demo](https://youtu.be/ME37aFqTa20)
 ## API Documentation
 View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.com/view/25138891/2s8Z73xqLn). I used postman for documenting the api endpoints.
 
-## Folder Structure Overview
-<details>
-    <summary>Click to expand!</summary>
-    <br/>
-
-<img src="readme_res//Folder%20Structure%20Dissection.png" height="400"/>
-
-> **<ins>Note to self</ins>:** _This section is meant to give an overview of how the folders are structured. If refactoring or adding new features alter the folder structure, change the pictures too via [draw.io](https://draw.io/) using the file `Folder Structure Dissection.drawio` in `readme_res` folder._
-
-</details>
-
 ## Installation And Usage
 <details>
     <summary>Click to expand!</summary>
