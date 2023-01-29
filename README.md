@@ -32,7 +32,7 @@ It is a full-stack note-taking web application built with React on the frontend 
 - A rich text editor is provided for taking down notes
 
 ## Demo
-https://user-images.githubusercontent.com/53491186/213941262-99a78cbb-0da4-43b0-b65f-b4512728ce02.mp4
+Check the video demo at [NoteItDown Demo](https://youtu.be/ME37aFqTa20)
 
 ## Screenshots
 ![](readme_res//Screenshots.png)
