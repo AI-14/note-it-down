@@ -48,19 +48,20 @@ View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.
 ## Installation And Usage
 #### <ins>**General**</ins>
 - Built on `OS: Windows 10` using `VSCode`
+- Requirements:
+  - `node >= 16.14.0`
+  - `npm >= 8.3.1`
+  - `python >= 3.8`
+  - `pip >= 21.3.1`
 - Download/clone this repository using `git clone https://github.com/AI-14/note-it-down.git`
 - `cd note-it-down`
 - NOTE: First run backend server (it will run on `http://127.0.0.1:8000`), then run frontend (it will run on `http://127.0.0.1:3000`)
 
 #### <ins>**For frontend folder**</ins>
-1. Installation
-   - Make sure you have the following versions and softwares/engines installed:
-     - `node: >= 16.14.0`
-     - `npm: >= 8.3.1`
+1. Installation  
    - Make sure you are in the project's directory. Then run the command `cd frontend`
    - Then install all dependencies by typing in the terminal `npm install` or `npm i`
    - To install devDependencies, type `npm install --save-dev`
-   
    > **Note:** _If any dependency is missing or an error shows up, install it using `npm install moduleName`_
 
 2. Usage
@@ -68,16 +69,12 @@ View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.
 
 #### <ins>**For backend folder**</ins>
 1. Installation
-   - Make sure you have the following versions and softwares/engines installed:
-     - `python: >= 3.8`
-     - `pip: >= 21.3.1`
    - Make sure you are in the project's directory. Then run the command `cd backend`
    - Then create a virtual environment using the command `py -m venv yourVenvName` and activate it using `yourVenvName\Scripts\activate.bat`
    - Then run the following command `pip install -r requirements.txt`. With this, all the dependencies will be installed in your virtual environment
    - Then run the commands:
      - `python manage.py makemigrations`
      - `python manage.py migrate`
-
    > **Note:** _If any dependency is missing or an error shows up, install it using `pip install moduleName`_
 
 2. Usage
