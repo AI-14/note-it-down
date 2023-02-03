@@ -39,7 +39,6 @@ Check the video demo at [Note It Down Demo](https://youtu.be/ME37aFqTa20)
 
 ## Architecture Overview 
 ![](readme-res//NoteItDown%20Architecture.png)
-
 > **<ins>Note to self</ins>:** _This section is meant to give an overview of how the frontend & backend are structured and how they communicate with each other. If refactoring or adding new features alter the architecture, change the pictures too via [draw.io](https://draw.io/) using the file `NoteItDown Architecture.drawio` in `readme-res` folder._
 
 ## API Documentation
