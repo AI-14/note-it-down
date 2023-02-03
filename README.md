@@ -56,7 +56,6 @@ View the api endpoints at [Note It Down Api Docs](https://documenter.getpostman.
 
 ## Installation and Usage <a name="installation-usage"></a>
 #### <ins>**General**</ins>
-- Built on `OS: Windows 10` using `VSCode`
 - Requirements:
   - `node >= 16.14.0`
   - `npm >= 8.3.1`
