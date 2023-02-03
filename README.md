@@ -16,20 +16,22 @@
 It is a full-stack note-taking web application built with React on the frontend and Django/Django-Rest-Framework on the backend.
 
 <ins>Features</ins>:
-- Supports light/dark mode (depending on your device settings)
-- For user credentials (JWT authentication based) i.e.
+- Light/dark mode (depending on your device settings)
+- JWT authentication
+- For users:
   - Users can Signup/Login/Logout
   - Currently loggedin user info is displayed on the home page
   - Users can update their email & password
   - Users can delete their account
-- For notes (JWT authentication based) i.e.
+- For notes:
   - Users can create a note
   - Users can set priority of a note
-  - Users can update a note
-  - Users can view all notes at once or filter notes by priority
-  - Users can view a specific note & can download/export a note as a pdf
+  - Users can view all notes at once or filter notes by priority (high/medium/low)
+  - Users can view a specific note
+  - Users can download/export a note as a pdf
+  - Users can update/edit a note
   - Users can delete a note
-- A rich text editor is provided for taking down notes
+  - A rich text editor is provided for taking down notes
 
 ## Demo
 Check the video demo at [Note It Down Demo](https://youtu.be/ME37aFqTa20)
