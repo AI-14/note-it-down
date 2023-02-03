@@ -63,7 +63,7 @@ View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.
    - Make sure you are in the project's directory. Then run the command `cd frontend`
    - Then install all dependencies by typing in the terminal `npm install` or `npm i`
    - To install devDependencies, type `npm install --save-dev`
-   > **Note:** _If any dependency is missing or an error shows up regarding that *package*, install it using `npm install packageName`_
+   > **Note:** _If any dependency is missing or an error shows up regarding that package, install it using `npm install packageName`_
 
 2. Usage
    - To start the project, type `npm start`
@@ -76,7 +76,7 @@ View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.
    - Then run the commands:
      - `python manage.py makemigrations`
      - `python manage.py migrate`
-   > **Note:** _If any dependency is missing or an error shows up regarding that *module*, install it using `pip install moduleName`_
+   > **Note:** _If any dependency is missing or an error shows up regarding that module, install it using `pip install moduleName`_
 
 2. Usage
    - To start the project, type `python manage.py runserver`
