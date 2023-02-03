@@ -18,7 +18,7 @@
 3. [Screenshots](#screenshots)
 4. [Architecture Overview](#architecture-overview)
 5. [API Documentation](#api-documentation)
-6. [Installation And Usage](#installation-usage)
+6. [Installation and Usage](#installation-usage)
 
 ## Description <a name="description"></a>
 It is a full-stack note-taking web application built with React on the frontend and Django/Django-Rest-Framework on the backend.
@@ -54,7 +54,7 @@ Check the video demo at [Note It Down Demo](https://youtu.be/ME37aFqTa20)
 ## API Documentation <a name="api-documentation"></a>
 View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.com/view/25138891/2s8Z73xqLn). I used postman for documenting the api endpoints.
 
-## Installation And Usage <a name="installation-usage"></a>
+## Installation and Usage <a name="installation-usage"></a>
 #### <ins>**General**</ins>
 - Built on `OS: Windows 10` using `VSCode`
 - Requirements:
