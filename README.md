@@ -12,7 +12,15 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-white?style=flat&logo=sqlite&logoColor=blue)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman&logoColor=orange)
 
-## Description
+# Table of contents
+1. [Description](#description)
+2. [Demo](#demo)
+3. [Screenshots](#screenshots)
+4. [Architecture Overview](#architectureoverview)
+5. [API Documentation](#apidocumentation)
+6. [Installation And Usage](#installationusage)
+
+## Description <a name="description"></a>
 It is a full-stack note-taking web application built with React on the frontend and Django/Django-Rest-Framework on the backend.
 
 <ins>Features</ins>:
@@ -33,20 +41,20 @@ It is a full-stack note-taking web application built with React on the frontend 
   - Users can delete a note
   - A rich text editor is provided for taking down notes
 
-## Demo
+## Demo <a name="demo"></a>
 Check the video demo at [Note It Down Demo](https://youtu.be/ME37aFqTa20)
 
-## Screenshots
+## Screenshots <a name="screenshots"></a>
 ![](readme-res//Screenshots.png)
 
-## Architecture Overview 
+## Architecture Overview <a name="architectureoverview"></a>
 ![](readme-res//NoteItDown%20Architecture.png)
 > **<ins>Note to self</ins>:** _This section is meant to give an overview of how the frontend & backend are structured and how they communicate with each other. If refactoring or adding new features alter the architecture, change the pictures too via [draw.io](https://draw.io/) using the file `NoteItDown Architecture.drawio` in `readme-res` folder._
 
-## API Documentation
+## API Documentation <a name="apidocumentation"></a>
 View the api endpoints at [note-it-down-api-docs](https://documenter.getpostman.com/view/25138891/2s8Z73xqLn). I used postman for documenting the api endpoints.
 
-## Installation And Usage
+## Installation And Usage <a name="installationusage"></a>
 #### <ins>**General**</ins>
 - Built on `OS: Windows 10` using `VSCode`
 - Requirements:
