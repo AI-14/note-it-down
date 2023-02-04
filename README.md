@@ -27,18 +27,21 @@ It is a full-stack note-taking web application built with React on the frontend 
 - Light/dark mode (depending on your device settings)
 - JWT authentication
 - For users:
-  - Users can Signup/Login/Logout
+  - Users can:
+    - Signup/Login/Logout
+    - Update their email & password
+    - Delete their account
   - Currently loggedin user info is displayed on the home page
-  - Users can update their email & password
-  - Users can delete their account
+  
 - For notes:
-  - Users can create a note
-  - Users can set priority of a note
-  - Users can view all notes at once or filter notes by priority (high/medium/low)
-  - Users can view a specific note
-  - Users can download/export a note as a pdf
-  - Users can update/edit a note
-  - Users can delete a note
+  - Users can:
+    - Create a note
+    - Set priority of a note
+    - View all notes at once or filter notes by priority (high/medium/low)
+    - View a specific note
+    - Download/export a note as a pdf
+    - Update/edit a note
+    - Delete a note
   - A rich text editor is provided for taking down notes
 
 ## Demo <a name="demo"></a>
