@@ -59,7 +59,7 @@ View the api endpoints in detail at [Note It Down Api Docs](https://documenter.g
 
 Here is the summary of all endpoints:
 
-- **For users**:
+- <ins>For users</ins>:
   - `api/users/all/` -> GET
   - `api/users/user/` -> GET, PUT, DELETE
   - `api/users/user/signup/` -> POST
@@ -67,7 +67,7 @@ Here is the summary of all endpoints:
   - `api/users/user/login/token/refresh/` -> POST
   - `api/users/bulkdelete/` -> DELETE
 
-- **For notes**:
+- <ins>For notes</ins>:
   - `api/notes/all/` -> GET
   - `api/notes/note/{noteId}/` -> GET, PUT, DELETE 
   - `api/notes/note/` -> POST
