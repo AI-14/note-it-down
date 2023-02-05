@@ -26,14 +26,14 @@ It is a full-stack note-taking web application built with React on the frontend 
 <ins>Features</ins>:
 - Light/dark mode (depending on your device settings)
 - JWT authentication
-- For users:
+- Users:
   - Users can:
     - Signup/Login/Logout
     - Update their email & password
     - Delete their account
   - Currently loggedin user info is displayed on the home page
   
-- For notes:
+- Notes:
   - Users can:
     - Create a note
     - Set priority of a note
@@ -59,7 +59,7 @@ View the api endpoints in detail at [Note It Down Api Docs](https://documenter.g
 
 Here is the summary of all endpoints:
 
-- <ins>For users</ins>:
+- <ins>Users</ins>:
   - `api/users/all/` -> GET
   - `api/users/user/` -> GET, PUT, DELETE
   - `api/users/user/signup/` -> POST
@@ -67,7 +67,7 @@ Here is the summary of all endpoints:
   - `api/users/user/login/token/refresh/` -> POST
   - `api/users/bulkdelete/` -> DELETE
 
-- <ins>For notes</ins>:
+- <ins>Notes</ins>:
   - `api/notes/all/` -> GET
   - `api/notes/note/{noteId}/` -> GET, PUT, DELETE 
   - `api/notes/note/` -> POST
