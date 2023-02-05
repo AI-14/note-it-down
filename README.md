@@ -52,7 +52,7 @@ Check the video demo at [Note It Down Demo](https://youtu.be/ME37aFqTa20)
 
 ## Architecture Overview <a name="architecture-overview"></a>
 ![](readme-res//NoteItDown%20System%20Architecture.png)
-> Note to self: This section is meant to give an overview of how the frontend & backend are structured and how they communicate with each other. If refactoring or adding new features alter the architecture, change the pictures too via [draw.io](https://draw.io/) using the file `NoteItDown Architecture.drawio` in `readme-res` folder.
+> Note to self: This section is meant to give an overview of how the frontend & backend are structured and how they communicate with each other. If refactoring or adding new features alter the architecture, change the pictures too via [draw.io](https://draw.io/) using the file `NoteItDown System Architecture.drawio` in `readme-res` folder.
 
 ## API Documentation <a name="api-documentation"></a>
 View the api endpoints in detail at [Note It Down Api Docs](https://documenter.getpostman.com/view/25138891/2s8Z73xqLn).
