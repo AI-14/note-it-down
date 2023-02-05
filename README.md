@@ -55,7 +55,23 @@ Check the video demo at [Note It Down Demo](https://youtu.be/ME37aFqTa20)
 > Note to self: This section is meant to give an overview of how the frontend & backend are structured and how they communicate with each other. If refactoring or adding new features alter the architecture, change the pictures too via [draw.io](https://draw.io/) using the file `NoteItDown Architecture.drawio` in `readme-res` folder.
 
 ## API Documentation <a name="api-documentation"></a>
-View the api endpoints at [Note It Down Api Docs](https://documenter.getpostman.com/view/25138891/2s8Z73xqLn). I used postman for documenting the api endpoints.
+View the api endpoints in detail at [Note It Down Api Docs](https://documenter.getpostman.com/view/25138891/2s8Z73xqLn).
+
+Here is the summary of all endpoints:
+
+- **For users**:
+  - api/users/all/ -> GET
+  - api/users/user/ -> GET, PUT, DELETE
+  - api/users/user/signup/ -> POST
+  - api/users/user/login/token/ -> POST
+  - api/users/user/login/token/refresh/ -> POST
+  - api/users/bulkdelete/ -> DELETE
+
+- **For notes**:
+  - api/notes/all/ -> GET
+  - api/notes/note/{noteId} -> GET, PUT, DELETE 
+  - api/notes/note/ -> POST
+  - api/notes/bulkdelete/ -> DELETE
 
 ## Installation and Usage <a name="installation-usage"></a>
 #### <ins>**General**</ins>
