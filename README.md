@@ -60,18 +60,18 @@ View the api endpoints in detail at [Note It Down Api Docs](https://documenter.g
 Here is the summary of all endpoints:
 
 - **For users**:
-  - api/users/all/ -> GET
-  - api/users/user/ -> GET, PUT, DELETE
-  - api/users/user/signup/ -> POST
-  - api/users/user/login/token/ -> POST
-  - api/users/user/login/token/refresh/ -> POST
-  - api/users/bulkdelete/ -> DELETE
+  - `api/users/all/` -> GET
+  - `api/users/user/` -> GET, PUT, DELETE
+  - `api/users/user/signup/` -> POST
+  - `api/users/user/login/token/` -> POST
+  - `api/users/user/login/token/refresh/` -> POST
+  - `api/users/bulkdelete/` -> DELETE
 
 - **For notes**:
-  - api/notes/all/ -> GET
-  - api/notes/note/{noteId} -> GET, PUT, DELETE 
-  - api/notes/note/ -> POST
-  - api/notes/bulkdelete/ -> DELETE
+  - `api/notes/all/` -> GET
+  - `api/notes/note/{noteId}/` -> GET, PUT, DELETE 
+  - `api/notes/note/` -> POST
+  - `api/notes/bulkdelete/` -> DELETE
 
 ## Installation and Usage <a name="installation-usage"></a>
 #### <ins>**General**</ins>
