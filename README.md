@@ -55,9 +55,7 @@ Check the video demo at [Note It Down Demo](https://youtu.be/ME37aFqTa20)
 > Note to self: This section is meant to give an overview of how the frontend & backend are structured and how they communicate with each other. If refactoring or adding new features alter the architecture, change the pictures too via [draw.io](https://draw.io/) using the file `Architecture.drawio` in `readme-res` folder.
 
 ## API Documentation <a name="api-documentation"></a>
-View the api endpoints in detail at [Note It Down Api Docs](https://documenter.getpostman.com/view/25138891/2s8Z73xqLn).
-
-All endpoints are listed below:
+All  the endpoints are listed below. However, to view the details of the endpoints, visit [Note It Down Api Docs](https://documenter.getpostman.com/view/25138891/2s8Z73xqLn).
 
 - <ins>Users</ins>:
   - `api/users/all/` -> GET
