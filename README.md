@@ -57,7 +57,7 @@ Check the video demo at [Note It Down Demo](https://youtu.be/ME37aFqTa20)
 ## API Documentation <a name="api-documentation"></a>
 View the api endpoints in detail at [Note It Down Api Docs](https://documenter.getpostman.com/view/25138891/2s8Z73xqLn).
 
-Here is the summary of all endpoints:
+All endpoints are listed below:
 
 - <ins>Users</ins>:
   - `api/users/all/` -> GET
