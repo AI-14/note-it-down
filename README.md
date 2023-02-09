@@ -25,6 +25,7 @@ It is a full-stack note-taking web application built with React on the frontend 
 
 <ins>Features</ins>:
 - Light/dark mode (depending on your device settings)
+- Responsive layout
 - JWT authentication
 - Users:
   - Users can:
