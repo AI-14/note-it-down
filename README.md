@@ -101,7 +101,7 @@ All  the endpoints are listed below. However, to view the details of the endpoin
 
 #### <ins>**Makefile**</ins>
 You need to have `make` installed in your machine.
-- Follow instructions in *General* sub-section.
+- Setup the project as per *General* sub-section.
 - `make build-backend` - builds the backend
 - `make build-frontend` - builds the frontend
 - `make run-backend` - runs the backend
