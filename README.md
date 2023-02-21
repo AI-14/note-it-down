@@ -43,7 +43,7 @@ It is a full-stack note-taking web application built with React on the frontend 
     - Download/export a note as a pdf
     - Update/edit a note
     - Delete a note
-  - A rich text editor is provided for taking down notes
+  - A rich text editor is provided for taking down the notes
 
 ## Demo <a name="demo"></a>
 Check the video demo at [Note It Down Demo](https://youtu.be/ME37aFqTa20)
