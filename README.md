@@ -73,7 +73,7 @@ All  the endpoints are listed below. However, to view the details of the endpoin
   - `api/notes/bulkdelete/` - DELETE
 
 ## Installation and Usage <a name="installation-usage"></a>
-#### <ins>**General**</ins>
+#### <ins>**On local machine**</ins>
 - Requirements:
   - `node >= 16.14.0`
   - `npm >= 8.3.1`
@@ -81,24 +81,22 @@ All  the endpoints are listed below. However, to view the details of the endpoin
   - `pip >= 21.3.1`
 - `git clone https://github.com/AI-14/note-it-down.git` - clones the repository
 - `cd note-it-down`
+- <ins>For backend folder</ins>
+  - `cd backend`
+  - `py -m venv yourVenvName` - creates a virtual environment
+  - `yourVenvName\Scripts\activate.bat` - activates the virtual environment
+  - `pip install -r requirements.txt` - installs all modules
+  - `python manage.py makemigrations` & `python manage.py migrate` - migrates all the tables to db
+  - `python manage.py createsuperuser` - creates a superuser
+  - `python manage.py runserver` - runs the server
+- <ins>For frontend folder</ins>
+  - `cd frontend`
+  - `npm install` or `npm i` - installs all packages
+  - `npm install --save-dev` - installs devDependencies 
+  - `npm start` - starts the app
 > NOTE: First run backend server (it will run on `http://127.0.0.1:8000`), then run frontend app (it will run on `http://127.0.0.1:3000`)
 
-#### <ins>**For frontend folder**</ins> 
-- `cd frontend`
-- `npm install` or `npm i` - installs all packages
-- `npm install --save-dev` - installs devDependencies 
-- `npm start` - starts the app
-
-#### <ins>**For backend folder**</ins>
-- `cd backend`
-- `py -m venv yourVenvName` - creates a virtual environment
-- `yourVenvName\Scripts\activate.bat` - activates the virtual environment
-- `pip install -r requirements.txt` - installs all modules
-- `python manage.py makemigrations` & `python manage.py migrate` - migrates all the tables to db
-- `python manage.py createsuperuser` - creates a superuser
-- `python manage.py runserver` - runs the server
-
-#### <ins>**If using Makefile**</ins>
+#### <ins>**Makefile**</ins>
 You need to have `make` installed in your machine
 - `make build-backend` - builds the backend
 - `make build-frontend` - builds the frontend
