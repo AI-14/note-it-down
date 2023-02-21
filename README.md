@@ -59,18 +59,18 @@ Check the video demo at [Note It Down Demo](https://youtu.be/ME37aFqTa20)
 All  the endpoints are listed below. However, to view the details of the endpoints, visit [Note It Down Api Docs](https://documenter.getpostman.com/view/25138891/2s8Z73xqLn).
 
 - <ins>Users</ins>:
-  - `api/users/all/` -> GET
-  - `api/users/user/` -> GET, PUT, DELETE
-  - `api/users/user/signup/` -> POST
-  - `api/users/user/login/token/` -> POST
-  - `api/users/user/login/token/refresh/` -> POST
-  - `api/users/bulkdelete/` -> DELETE
+  - `api/users/all/` - GET
+  - `api/users/user/` - GET, PUT, DELETE
+  - `api/users/user/signup/` - POST
+  - `api/users/user/login/token/` - POST
+  - `api/users/user/login/token/refresh/` - POST
+  - `api/users/bulkdelete/` - DELETE
 
 - <ins>Notes</ins>:
-  - `api/notes/all/` -> GET
-  - `api/notes/note/{noteId}/` -> GET, PUT, DELETE 
-  - `api/notes/note/` -> POST
-  - `api/notes/bulkdelete/` -> DELETE
+  - `api/notes/all/` - GET
+  - `api/notes/note/{noteId}/` - GET, PUT, DELETE 
+  - `api/notes/note/` - POST
+  - `api/notes/bulkdelete/` - DELETE
 
 ## Installation and Usage <a name="installation-usage"></a>
 #### <ins>**General**</ins>
