@@ -100,8 +100,8 @@ All  the endpoints are listed below. However, to view the details of the endpoin
 > NOTE: First run backend server (it will run on `http://127.0.0.1:8000`), then run frontend app (it will run on `http://127.0.0.1:3000`)
 
 #### <ins>**Makefile**</ins>
-You need to have `make` installed in your machine.
-- Setup the project as per *General* sub-section.
+You need to have `make` installed in your machine
+- Setup the project as per *General* sub-section
 - `make build-backend` - builds the backend
 - `make build-frontend` - builds the frontend
 - `make run-backend` - runs the backend
