@@ -82,6 +82,7 @@ All  the endpoints are listed below. However, to view the details of the endpoin
 - `cd note-it-down`
 
 #### <ins>**For backend folder**</ins>
+- Setup the project as per *General* sub-section
 - `cd backend`
 - `py -m venv yourVenvName` - creates a virtual environment
 - `yourVenvName\Scripts\activate.bat` - activates the virtual environment
@@ -91,6 +92,7 @@ All  the endpoints are listed below. However, to view the details of the endpoin
 - `python manage.py runserver` - runs the server
   
 #### <ins>**For frontend folder**</ins>
+- Setup the project as per *General* sub-section
 - `cd frontend`
 - `npm install` or `npm i` - installs all packages
 - `npm install --save-dev` - installs devDependencies 
@@ -105,4 +107,4 @@ You need to have `make` installed in your machine
 - `make build-frontend` - builds the frontend
 - `make run-backend` - runs the backend
 - `make run-frontend` - runs the frontend (make sure you open another cmd to run this command)
-> NOTE: use `make help` to see all the commands
+> NOTE: Use `make help` to see all the commands
